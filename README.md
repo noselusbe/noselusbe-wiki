@@ -1,3 +1,5 @@
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/noselusbe/noselusbe-wiki/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 ## NosElus.be -  Le concept
 
 Périodiquement nous votons et désignons nos représentants. Ceux-ci choisissent l'exécutif. Parlementaire et Ministres, Conseillers communaux, Bourgmestres et Échevins sont nos élus. Il travaillent pour la collectivité, c'est à dire pour nous tous. Mais que font-ils ? Dans les enceintes des assemblées, des lois sont élaborées, des budgets sont votés et l'action du Gouvernement est contrôlée. Ce travail important, tant par son impact que par son ampleur, nous concerne tous.
