@@ -8,7 +8,7 @@ L'objectif de NosElus.be est de rendre le suivi de ce travail plus accessible à
 
 Le développement de NosElus.be a débuté dans le cadre du Hackathon GovWallonie organisé au CoWorking de Namur (lien) ces 4, 5 et 6 octobre 2013. Pour des raisons d'accessibilité de l'information, dans un premier temps il a été décidé de rendre disponible les questions écrites du Parlement Wallon.
 
-Le site n'en est qu'à son début. Actuellement, il ne permet d'accéder qu'à une toute petite partie du travail parlementaire. Les outils de recherche sont modestes. Certains hyperliens apparents ne mènent encore nulle part. Au fur et à mesure du développement du site d'autres matières et d'autres fonctions devrait être disponibles.
+Le site n'en est qu'à son début. Actuellement, il ne permet d'accéder qu'à une toute petite partie du travail parlementaire. Au fur et à mesure du développement du site d'autres matières et d'autres fonctions devrait être disponibles.
 
 Vous pouvez nous aider à développer NosElus.be
 
@@ -23,17 +23,17 @@ Vous pouvez nous aider à développer NosElus.be
 
 ## Comment Participer?
 
-### Parlementaire:
+### Parlementaires:
 
 Vous souhaitez que le travail des assemblées soit valorisé. Nous contacterons prochainement les Présidents du Parlement wallon et de la Chambre afin de leur présenter le projet et de leur expliquer ce que les assemblées pourraient faire pour faciliter notre projet. Vous êtes prêt à apporter un soutien à nos demandes. Faites-vous connaître en nous écrivant à [info@noselus.be](mailto:info@noselus.be).
 
-### Citoyen
+### Citoyens
 
 [Suivez-nous sur Tweeter](http://twitter.com/noselusbe)
 
 Le projet vous intéresse et vous seriez prêt à vous y investir. Faites vous connaître par mail à [info@noselus.be](mailto:info@noselus.be)
 
-### Développeur - Webdesigner - Project manager
+### Développeurs - Webdesigners - Project managers
 
 Rejoignez l'équipe de développeurs bénévoles de NosElus.be. Le site est développé en OpenSource. Un outil de développement collaboratif sera prochainement mis en place.
 
