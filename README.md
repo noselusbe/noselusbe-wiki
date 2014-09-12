@@ -12,11 +12,20 @@ Le site n'en est qu'à son début. Actuellement, il ne permet d'accéder qu'à u
 
 Vous pouvez nous aider à développer NosElus.be
 
+## Roadmap
+
+* Add Brussels parlement questions
+* Add Brussels parlement questions
+* Allow people to subscribe to politician
+* Allow people to subscribe to topics
+* Allow people to subscribe to question and get notify when it gets answer
+
+
 ## Comment Participer?
 
 ### Parlementaire:
 
-Vous souhaitez que le travail des assemblées soit valorisé. Nous contacterons prochainement les Présidents du Parlement wallon et de la Chambre afin de leur présenter le projet et de leur expliquer ce que les assemblées pourraient faire pour faciliter notre projet. Vous êtes prêt à apporter un soutien à nos demandes. Faites-vous connaître en nous écrivant à noselus.be@gmail.com.
+Vous souhaitez que le travail des assemblées soit valorisé. Nous contacterons prochainement les Présidents du Parlement wallon et de la Chambre afin de leur présenter le projet et de leur expliquer ce que les assemblées pourraient faire pour faciliter notre projet. Vous êtes prêt à apporter un soutien à nos demandes. Faites-vous connaître en nous écrivant à [info@noselus.be](mailto:info@noselus.be).
 
 ### Citoyen
 
