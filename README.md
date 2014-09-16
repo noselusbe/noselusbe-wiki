@@ -14,8 +14,7 @@ Vous pouvez nous aider à développer NosElus.be
 
 ## Roadmap
 
-* Add Brussels parlement questions
-* Add Brussels parlement questions
+* Add more questions sources
 * Allow people to subscribe to politician
 * Allow people to subscribe to topics
 * Allow people to subscribe to question and get notify when it gets answer
